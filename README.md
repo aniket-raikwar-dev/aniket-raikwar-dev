@@ -1,6 +1,7 @@
-![Frame 3](https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/654f55fb-70c3-47ba-abb0-91f60c04d61a)
+![Frame 3 (1)](https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/766d6cfd-1aae-40ab-9304-680cbb84c699)
 
-## Hi there 👋
+
+## Hi, I'm Aniket!
 
 
 - 🔭 I’m currently working on York IE
