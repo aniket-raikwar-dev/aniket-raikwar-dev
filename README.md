@@ -1,9 +1,7 @@
+![Frame 3](https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/654f55fb-70c3-47ba-abb0-91f60c04d61a)
+
 ## Hi there 👋
 
-<!--
-**aniket-raikwar-dev/aniket-raikwar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on York IE
 - 🌱 I’m currently learning Backend
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: aniket.raikwar.101@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
