@@ -1,19 +1,25 @@
 ![Frame 3 (2)](https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/4568cd74-47e0-45bc-a7a8-0bfe695ef541)
 
+### Hello there 👋,
 
-<h3 align="center">Hello there 👋,</h3>
+#### I'm Aniket Raikwar, a Frontend Software Engineer at [York IE](https://york.ie/).
 
-<h4 align="center">I'm Aniket Raikwar, a Frontend Software Engineer at [York IE](https://york.ie/).</h4>
 
-<div align="center">
-  ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `.scss`, `.env`, `.git`
-</div>
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `.scss`, `.env`, `.git`
+  
+- 🌱 I love creating cool stuff on the internet!
+  
+- 👨‍💻 I was graduated from Nagpur University in 2022 with a Bachelor's Degree in Information Technology.
 
-<div align="center">
-  I love creating cool stuff on the internet! I was graduated from Nagpur University in 2022 with a Bachelor's Degree in Information Technology. I really enjoy working on the frontend of web apps, making them look awesome and user-friendly. I've been doing this for about 2 years now, and during that time, I've become pretty good at using technologies like JavaScript, React Js, Next Js, Typescript, Tailwind CSS, Bootstrap, HTML, CSS, and Node JS. 
+- ⚡ I like to build things that people will find helpful and enjoyable, that’s all make me a creative developer.
+
+- 💬 `ping` me about `React`, `JavaScript`, `Developement`, `Design`.
+  
+
+I love creating cool stuff on the internet! I was graduated from Nagpur University in 2022 with a Bachelor's Degree in Information Technology. I really enjoy working on the frontend of web apps, making them look awesome and user-friendly. I've been doing this for about 2 years now, and during that time, I've become pretty good at using technologies like JavaScript, React Js, Next Js, Typescript, Tailwind CSS, Bootstrap, HTML, CSS, and Node JS. 
 
 I like to build things that people will find helpful and enjoyable, that’s all make me a creative developer.
-</div>
+
 
 
 <h3 align="center">Connect with Me</h3>
