@@ -31,12 +31,10 @@ I like to build things that people will find helpful and enjoyable, that’s all
 <h2 align="center">Tech Stack and Tools</h2>
 
 <div align="center">
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/2f0dc4ab-b833-454a-9a1b-f6b7aa0e522f" alt="Frame 4" width="100"/>
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/2f0dc4ab-b833-454a-9a1b-f6b7aa0e522f" alt="Frame 4" width="130"/>
 </div>
 
 
-
-![js](https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/afb61dab-3579-4d92-868b-b8307c72a153)
 
 
 
