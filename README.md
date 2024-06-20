@@ -7,29 +7,24 @@
 
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `.scss`, `.env`, `.git`
 - 🌍 I'm mostly active within the **JavaScript Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
-- 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**
-
-
-I love creating cool stuff on the internet! I was graduated from Nagpur University in 2022 with a Bachelor's Degree in Information Technology. I really enjoy working on the frontend of web apps, making them look awesome and user-friendly. I've been doing this for about 2 years now, and during that time, I've become pretty good at using technologies like JavaScript, React Js, Next Js, Typescript, Tailwind CSS, Bootstrap, HTML, CSS, and Node JS. 
-
-I like to build things that people will find helpful and enjoyable, that’s all make me a creative developer.
+- 💅 I love creating cool stuff on the internet!
+- 💬 `ping` me about **react**, **javascript**, **development**, **design**
 
 
 <h2 align="center">Connect with Me</h2>
 
 <div align="center">
 <a href="https://www.instagram.com/aniket.raikwar_/" target="_blank">
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/a943662e-c08c-4ca7-9c11-9ff58d288302" alt="Frame 4" width="150"/>
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/a943662e-c08c-4ca7-9c11-9ff58d288302" alt="Frame 4" width="120"/>
 </a>
 <a href="https://github.com/aniket-raikwar-dev" target="_blank">
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/84c5fcfd-5830-4338-9e07-3a6d774b035e" alt="Frame 4" width="150"/>
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/84c5fcfd-5830-4338-9e07-3a6d774b035e" alt="Frame 4" width="120"/>
 </a>
 <a href="https://x.com/raikwar_101" target="_blank">
- <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/66793683-d22e-4fa0-8db8-b8964ab32d32" alt="Frame 6" width="150"/>
+ <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/66793683-d22e-4fa0-8db8-b8964ab32d32" alt="Frame 6" width="120"/>
 </a>
 <a href="https://medium.com/@aniket.raikwar.101" target="_blank">
- <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/8d38127b-f56e-416f-bc29-8f2b52e0cef4" alt="Frame 6" width="150"/>
+ <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/8d38127b-f56e-416f-bc29-8f2b52e0cef4" alt="Frame 6" width="120"/>
 </a>
 </div>
 
