@@ -1,8 +1,9 @@
-![Frame 3 (1)](https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/898fd2a8-2bd6-44ac-ab41-849f850d187b)
+![Frame 3 (2)](https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/4568cd74-47e0-45bc-a7a8-0bfe695ef541)
 
-## Hi, I'm Aniket!
 
-I'm a Frontend Software Engineer.
+## Hello there 👋,
+
+### I'm Aniket Raikwar, Frontend Software Engineer.
 
 I love creating cool stuff on the internet! I was graduated from Nagpur University in 2022 with a Bachelor's Degree in Information Technology. I really enjoy working on the frontend of web apps, making them look awesome and user-friendly. I've been doing this for about 2 years now, and during that time, I've become pretty good at using technologies like JavaScript, React Js, Next Js, Typescript, Tailwind CSS, Bootstrap, HTML, CSS, and Node JS. 
 
