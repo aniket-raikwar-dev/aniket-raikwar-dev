@@ -13,13 +13,10 @@
 
 - ⚡ I like to build things that people will find helpful and enjoyable, that’s all make me a creative developer.
 
-- 💬 `ping` me about `React`, `JavaScript`, `Developement`, `Design`.
+- 💬 ping me about `React`, `JavaScript`, `Developement`, `Design`.
+
+- 📫 Reach me at [aniket.raikwar.101@gmail.com](aniket.raikwar.101@gmail.com)
   
-
-I love creating cool stuff on the internet! I was graduated from Nagpur University in 2022 with a Bachelor's Degree in Information Technology. I really enjoy working on the frontend of web apps, making them look awesome and user-friendly. I've been doing this for about 2 years now, and during that time, I've become pretty good at using technologies like JavaScript, React Js, Next Js, Typescript, Tailwind CSS, Bootstrap, HTML, CSS, and Node JS. 
-
-I like to build things that people will find helpful and enjoyable, that’s all make me a creative developer.
-
 
 
 <h3 align="center">Connect with Me</h3>
