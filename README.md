@@ -13,10 +13,18 @@ I like to build things that people will find helpful and enjoyable, that’s all
 
 <div align="center">
 
-<img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/5a251347-2405-42b3-95ed-bec7203dd2b9" alt="Frame 4" width="150"/>
-<img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/fe58dc4b-39dc-4f58-a681-a840099fe1d7" alt="Frame 5" width="150"/>
-<img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/186f25d8-5bdf-43e1-b5fb-98e9e0d01097" alt="Frame 6" width="150"/>
-<img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/ef605d13-aaa0-4163-96dd-2ff00a305f4d" alt="Frame 6" width="150"/>
+<a href="https://www.instagram.com/aniket.raikwar_/" target="_blank">
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/5a251347-2405-42b3-95ed-bec7203dd2b9" alt="Frame 4" width="150"/>
+</a>
+<a href="https://www.linkedin.com/in/aniketraikwar/" target="_blank">
+ <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/fe58dc4b-39dc-4f58-a681-a840099fe1d7" alt="Frame 5" width="150"/>
+</a>
+<a href="https://x.com/raikwar_101" target="_blank">
+ <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/186f25d8-5bdf-43e1-b5fb-98e9e0d01097" alt="Frame 6" width="150"/>
+</a>
+<a href="https://medium.com/@aniket.raikwar.101" target="_blank">
+ <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/ef605d13-aaa0-4163-96dd-2ff00a305f4d" alt="Frame 6" width="150"/>
+</a>
 
 </div>
 
