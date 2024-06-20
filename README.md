@@ -8,8 +8,18 @@ I love creating cool stuff on the internet! I was graduated from Nagpur Universi
 
 I like to build things that people will find helpful and enjoyable, that’s all make me a creative developer.
 
-<h2 align="center">You can connect with me</h2>
+
+<h2 align="center">Connect with Me</h2>
+
+<div align="center">
+  
 ![Frame 4](https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/5a251347-2405-42b3-95ed-bec7203dd2b9)
+
+  
+</div>
+
+
+
 
 
 
