@@ -6,10 +6,10 @@
 #### I'm Aniket Raikwar, a Frontend Software Engineer at [York IE](https://york.ie/).
 
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `.scss`, `.env`, `.git`
-- 🌍 I'm mostly active within the **JavaScript Community**
-- 💅 I love creating cool stuff on the internet!
-- 💬 `ping` me about **react**, **javascript**, **development**, **design**
 
+I love creating cool stuff on the internet! I was graduated from Nagpur University in 2022 with a Bachelor's Degree in Information Technology. I really enjoy working on the frontend of web apps, making them look awesome and user-friendly. I've been doing this for about 2 years now, and during that time, I've become pretty good at using technologies like JavaScript, React Js, Next Js, Typescript, Tailwind CSS, Bootstrap, HTML, CSS, and Node JS. 
+
+I like to build things that people will find helpful and enjoyable, that’s all make me a creative developer.
 
 <h3 align="center">Connect with Me</h3>
 
