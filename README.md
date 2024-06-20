@@ -1,4 +1,4 @@
-![Frame 3](https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/84fd5063-af1c-4fff-9f53-7a75568d7249)
+![Frame 3 (1)](https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/898fd2a8-2bd6-44ac-ab41-849f850d187b)
 
 ## Hi, I'm Aniket!
 
@@ -12,21 +12,19 @@ I like to build things that people will find helpful and enjoyable, that’s all
 <h2 align="center">Connect with Me</h2>
 
 <div align="center">
-
 <a href="https://www.instagram.com/aniket.raikwar_/" target="_blank">
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/5a251347-2405-42b3-95ed-bec7203dd2b9" alt="Frame 4" width="150"/>
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/a943662e-c08c-4ca7-9c11-9ff58d288302" alt="Frame 4" width="150"/>
 </a>
-<a href="https://www.linkedin.com/in/aniketraikwar/" target="_blank">
- <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/fe58dc4b-39dc-4f58-a681-a840099fe1d7" alt="Frame 5" width="150"/>
+<a href="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/09ac8b15-b10b-48a0-b8ae-867e754276db" alt="Frame 5" width="150"/>
 </a>
 <a href="https://x.com/raikwar_101" target="_blank">
- <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/186f25d8-5bdf-43e1-b5fb-98e9e0d01097" alt="Frame 6" width="150"/>
+ <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/66793683-d22e-4fa0-8db8-b8964ab32d32" alt="Frame 6" width="150"/>
 </a>
 <a href="https://medium.com/@aniket.raikwar.101" target="_blank">
- <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/ef605d13-aaa0-4163-96dd-2ff00a305f4d" alt="Frame 6" width="150"/>
+ <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/8d38127b-f56e-416f-bc29-8f2b52e0cef4" alt="Frame 6" width="150"/>
 </a>
-
 </div>
+
 
 <h2 align="center">Tech Stack and Tools</h2>
 
