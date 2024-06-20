@@ -15,13 +15,10 @@ I like to build things that people will find helpful and enjoyable, that’s all
 
 <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/5a251347-2405-42b3-95ed-bec7203dd2b9" alt="Frame 4" width="150"/>
 <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/fe58dc4b-39dc-4f58-a681-a840099fe1d7" alt="Frame 5" width="150"/>
-<img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/002a2ab7-dfe7-43cb-9a21-a5a788f3ecef" alt="Frame 6" width="150"/>
-<img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/1cfd969e-f689-4603-ab65-b7e31cce2e5a" alt="Frame 6" width="150"/>
+<img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/186f25d8-5bdf-43e1-b5fb-98e9e0d01097" alt="Frame 6" width="150"/>
+<img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/ef605d13-aaa0-4163-96dd-2ff00a305f4d" alt="Frame 6" width="150"/>
 
 </div>
-
-
-
 
 
 
