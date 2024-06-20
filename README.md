@@ -1,4 +1,4 @@
-![Frame 3 (2)](https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/fbf4d333-4ac2-495c-978c-542ed6f14648)
+![Frame 3 (4)](https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/a5f288df-0157-4fa5-abd6-36cfba5901f5)
 
 
 ## Hi, I'm Aniket!
