@@ -1,9 +1,10 @@
 ![Frame 3 (2)](https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/4568cd74-47e0-45bc-a7a8-0bfe695ef541)
 
 
-### Hello there 👋,
+<h3 align="center">Hello there 👋,</h3>
 
-#### I'm Aniket Raikwar, a Frontend Software Engineer at [York IE](https://york.ie/).
+<h4 align="center">I'm Aniket Raikwar, a Frontend Software Engineer at [York IE](https://york.ie/).</h4>
+
 
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `.scss`, `.env`, `.git`
 
