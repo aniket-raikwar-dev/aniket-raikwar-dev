@@ -15,9 +15,9 @@
 
 - 💬 Ping me about `React`, `JavaScript`, `Developement`, `Design`.
 
-- 📫 Reach me at [aniket.raikwar.101@gmail.com](aniket.raikwar.101@gmail.com)
+- 📫 You can reach me at [aniket.raikwar.101@gmail.com](aniket.raikwar.101@gmail.com)
 
-- 📄 Want to see my resume - [Resume](aniket.raikwar.101@gmail.com)
+- 📄 If you want to see my resume - [Resume](aniket.raikwar.101@gmail.com)
   
 
 
