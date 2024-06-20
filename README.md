@@ -5,6 +5,10 @@
 
 I'm a Frontend Software Engineer.
 
+I love creating cool stuff on the internet! I was graduated from Nagpur University in 2022 with a Bachelor's Degree in Information Technology. I really enjoy working on the frontend of web apps, making them look awesome and user-friendly. I've been doing this for about 2 years now, and during that time, I've become pretty good at using technologies like JavaScript, React Js, Next Js, Typescript, Tailwind CSS, Bootstrap, HTML, CSS, and Node JS. 
+
+I like to build things that people will find helpful and enjoyable, that’s all make me a creative developer.
+
 
 
 
