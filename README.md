@@ -11,7 +11,7 @@
 - 💬 `ping` me about **react**, **javascript**, **development**, **design**
 
 
-<h2 align="center">Connect with Me</h2>
+<h3 align="center">Connect with Me</h3>
 
 <div align="center">
 <a href="https://www.instagram.com/aniket.raikwar_/" target="_blank">
@@ -30,7 +30,7 @@
 
 
 
-<h2 align="center">Tech Stack and Tools</h2>
+<h3 align="center">Tech Stack and Tools</h3>
 
 <div align="center">
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/79fba760-8813-46e6-b726-0628595857f4" alt="Frame 1" width="107"/>
