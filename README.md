@@ -31,10 +31,10 @@ I like to build things that people will find helpful and enjoyable, that’s all
 <h2 align="center">Tech Stack and Tools</h2>
 
 <div align="center">
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/8c12ccea-510c-4d5e-9497-c51dff111db2" alt="Frame 1" width="125"/>
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/b70ea2a5-15be-4c0f-8c66-d30e9a54fd2b" alt="Frame 2" width="110"/>
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/2f0dc4ab-b833-454a-9a1b-f6b7aa0e522f" alt="Frame 3" width="130"/>
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/1c552ab3-c188-4ef6-b422-dbf8ef530d51" alt="Frame 3" width="130"/>
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/c54e0bfa-9309-40a1-b51d-4e2fdd3f0d4b" alt="Frame 1" width="125"/>
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/544c81a8-c2ab-482f-9b19-c1e978ced0f8" alt="Frame 2" width="110"/>
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/e2a703ee-7e66-4e76-8e9a-d145e64deaad" alt="Frame 3" width="130"/>
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/b20e872d-36b1-4629-9092-87111933c10b" alt="Frame 3" width="130"/>
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/ac346e65-b55c-45c6-b853-3a79767cc2db" alt="Frame 4" width="130"/>
 </div>
 <div align="center">
@@ -43,5 +43,4 @@ I like to build things that people will find helpful and enjoyable, that’s all
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/d702c82a-7190-4cc7-a2e5-65d6be1834bb" alt="Frame 7" width="130"/>
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/a12bb5d6-e69c-4135-a082-11057ddd27df" alt="Frame 8" width="115"/>
 </div>
-
 
