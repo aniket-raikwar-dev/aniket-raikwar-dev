@@ -13,9 +13,11 @@
 
 - ⚡ I like to build things that people will find helpful and enjoyable, that’s all make me a creative developer.
 
-- 💬 ping me about `React`, `JavaScript`, `Developement`, `Design`.
+- 💬 Ping me about `React`, `JavaScript`, `Developement`, `Design`.
 
 - 📫 Reach me at [aniket.raikwar.101@gmail.com](aniket.raikwar.101@gmail.com)
+
+- 📄 Want to see my resume - [Resume](aniket.raikwar.101@gmail.com)
   
 
 
