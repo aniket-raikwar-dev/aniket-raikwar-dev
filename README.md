@@ -57,8 +57,7 @@ I like to build things that people will find helpful and enjoyable, that’s all
 <div align="center">
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/d3d593e0-cdca-430f-814c-977c0f5a434f" alt="Frame 5" width="115"/>
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/95f9d83f-0429-4e27-a4dd-5fd1d1b6edb3" alt="Frame 6" width="115"/>
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/80fdf239-8f70-403f-b230-b3b3a8cf07a2" alt="Frame 7" width="105"/>
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/dbc29f1b-8301-48bb-b649-132dbc158528" alt="Frame 8" width="105"/>
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/80fdf239-8f70-403f-b230-b3b3a8cf07a2" alt="Frame 7" width="100"/>
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/f2158c04-d87e-4264-a0d0-e703730771a2" alt="Frame 8" width="105"/>
 </div>
-
 
