@@ -36,7 +36,7 @@
 </a>
 </div>
 
-<hr style="border: none; border-top: 1px solid #ccc;" />
+<hr style="border: none; border-top: 1px solid #2464F3;" />
 <h3 align="center">Tech Stack and Tools</h3>
 <div align="center">
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/7b109308-96bf-43d8-8f63-07a53158707a" alt="Frame 1" width="107"/>
