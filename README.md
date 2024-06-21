@@ -1,4 +1,8 @@
-![Frame 9 (1)](https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/82124f10-658e-4185-aeb7-a5f06f9bca72)
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/a0d5fff7-effc-45dc-96a8-a35d88754bc6">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/82124f10-658e-4185-aeb7-a5f06f9bca72">
+ <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/a0d5fff7-effc-45dc-96a8-a35d88754bc6">
+</picture>
 
 
 
