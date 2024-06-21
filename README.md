@@ -2,7 +2,7 @@
 
 ### Hello there 👋,
 
-#### I'm Aniket Raikwar, a Frontend Software Engineer at [York IE](https://york.ie/).
+#### I'm Aniket Raikwar, a *Frontend Software Engineer* at [York IE](https://york.ie/).
 
 
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `.scss`, `.env`, `.git`
