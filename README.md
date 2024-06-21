@@ -19,7 +19,7 @@
 
 - 📄 If you want to see my resume - [Resume](aniket.raikwar.101@gmail.com)
 
-<div align="center">---------------------------------------------</div>
+<div align="center" style="color: red;">---------------------------------------------</div>
 
 <h3 align="center">Connect with Me</h3>
 <div align="center">
