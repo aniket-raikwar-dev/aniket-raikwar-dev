@@ -67,6 +67,12 @@
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/ce4f805d-58ed-41de-ba9c-7f76bd3919cd" alt="Frame 8" width="108"/>
 </div>
 
+<hr>
+<h3 align="center">GitHub Stats</h3>
+![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket-raikwar-dev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-raikwar-dev&layout=compact&theme=radical)
+
+
 
 
 
