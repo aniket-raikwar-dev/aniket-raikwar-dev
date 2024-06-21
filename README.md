@@ -19,7 +19,7 @@
 
 - 📄 If you want to see my resume - [Resume](aniket.raikwar.101@gmail.com)
 
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/wcAAgAB/ikn7XQAAAAASUVORK5CYII=" width="100%" height="1" style="display:block; margin:10px 0; background-color:#323F5E;" />
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/wcAAgAB/ikn7XQAAAAASUVORK5CYII=" width="100%" height="1" style="display:block; margin:40px 0; background-color:#323F5E;" />
 
 <h3 align="center">Connect with Me</h3>
 <div align="center">
