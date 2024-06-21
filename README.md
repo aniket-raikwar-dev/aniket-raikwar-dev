@@ -76,11 +76,10 @@
 
 <hr>
 <h3 align="center">GitHub Stats</h3>
-
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket-raikwar-dev&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-raikwar-dev&layout=compact&theme=radical)
-
+<div align="center" style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniket-raikwar-dev&show_icons=true&theme=tokyonight" alt="Aniket's GitHub stats" style="max-width: 45%; margin-right: 5%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-raikwar-dev&layout=compact&theme=tokyonight" alt="Top Langs" style="max-width: 45%;" />
+</div>
 
 
 
