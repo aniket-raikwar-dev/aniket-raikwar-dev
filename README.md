@@ -8,7 +8,7 @@ ___
 
 ---
 
-<hr style="border: 1px solid;"/>
+<hr style="border: 10px solid;"/>
 
 #### I'm Aniket Raikwar, a *Frontend Software Engineer* at [York IE](https://york.ie/).
 
