@@ -52,19 +52,18 @@
 
 
 <div align="center">
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/e2072da6-473e-43c5-bb5c-e42a1d7e4a4b" alt="Frame 5" width="115"/>
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/7026800a-0632-4bd7-b886-26d0afbaa63c" alt="Frame 6" width="115"/>
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/f2ea834a-b307-47f9-8313-1d55c1df452f" alt="Frame 7" width="115"/>
-   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/1d12cc7f-bc75-4c55-b7d1-33f9a544c984" alt="Frame 4" width="108"/>
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/379b2367-b2b7-40db-87d5-3a445fa19012" alt="Frame 5" width="115"/>
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/59f34fa2-7e89-43b4-adb6-f2480a8e598d" alt="Frame 6" width="115"/>
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/c51d4d0b-1b6c-43a4-9d65-f4c3e2c20674" alt="Frame 7" width="115"/>
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/f303d0cd-7ef5-4274-b667-345b1f28503b" alt="Frame 7" width="115"/>
 </div>
 
 
 
 
 
-
-
 <div align="center">
+   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/1d12cc7f-bc75-4c55-b7d1-33f9a544c984" alt="Frame 4" width="108"/>
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/753b14ee-1a93-408d-9bdc-ac918ab487de" alt="Frame 5" width="115"/>
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/9dbb4f1e-1946-4c9f-ac7a-c2895adb0fa6" alt="Frame 6" width="115"/>
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/197952cc-3820-45f0-9e43-1a5e3bfa8e92" alt="Frame 7" width="108"/>
