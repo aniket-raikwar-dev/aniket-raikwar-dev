@@ -19,7 +19,7 @@
 
 - 📄 If you want to see my resume - [Resume](aniket.raikwar.101@gmail.com)
 
----
+
 <h3 align="center">Connect with Me</h3>
 <div align="center">
 <a href="https://www.instagram.com/aniket.raikwar_/" target="_blank">
@@ -36,7 +36,7 @@
 </a>
 </div>
 
-<hr style="height:0.5px;border-width:0;color:gray;background-color:gray">
+
 <h3 align="center">Tech Stack and Tools</h3>
 <div align="center">
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/7b109308-96bf-43d8-8f63-07a53158707a" alt="Frame 1" width="107"/>
