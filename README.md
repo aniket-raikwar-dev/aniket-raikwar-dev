@@ -126,9 +126,10 @@
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/40051c45-5bcd-472a-a57f-d3163833f229" alt="Frame 4" width="108"/>
 </picture>
 
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/5eaa3880-621a-47c3-8fb4-e16508480e55">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/186d28b2-14e3-4be5-ba03-e44cbefe7c55">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/1aadb9cc-a47a-459b-b445-25c9803b03a1">
  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/5eaa3880-621a-47c3-8fb4-e16508480e55" alt="Frame 5" width="115"/>
 </picture>
 
