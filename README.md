@@ -47,8 +47,6 @@
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/944bccfd-7cdc-462c-83c3-f46ee998435e" alt="Frame 8" width="100"/>
 </div>
 
-
-
 <div align="center">
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/9331e325-000d-4ec2-a6a5-8053876fd92a" alt="Frame 5" width="115"/>
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/9180675a-435d-4a6b-a279-3561cf35b655" alt="Frame 6" width="115"/>
@@ -67,16 +65,6 @@
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/ce4f805d-58ed-41de-ba9c-7f76bd3919cd" alt="Frame 8" width="108"/>
 </div>
 
-<hr>
-<h3 align="center">GitHub Stats</h3>
-
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket-raikwar-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-raikwar-dev&layout=compact&theme=radical)
-
-
-
-
-
 
 <div align="center">
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/deaa2cf6-b270-4501-96e0-f85c5776743f" alt="Frame 7" width="105"/>
@@ -84,4 +72,15 @@
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/74de20e4-ed73-475d-abb0-c03b7b531802" alt="Frame 5" width="115"/>
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/e0b5863d-cb5b-48f2-84d9-3b0e38af6335" alt="Frame 8" width="93"/>
 </div>
+
+
+<hr>
+<h3 align="center">GitHub Stats</h3>
+
+![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket-raikwar-dev&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-raikwar-dev&layout=compact&theme=radical)
+
+
+
 
