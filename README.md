@@ -93,12 +93,29 @@
    <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/9180675a-435d-4a6b-a279-3561cf35b655" alt="Frame 6" width="115"/>
 </picture>
 
- 
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/9180675a-435d-4a6b-a279-3561cf35b655" alt="Frame 6" width="115"/>
+
+
+ <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/e3029f4e-1652-4925-961e-956b3fe32eb7">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/b564a05b-7933-4d7a-b6f6-ee7c44c64a54">
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/e3029f4e-1652-4925-961e-956b3fe32eb7" alt="Frame 7" width="115"/>
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/1e0df25b-bc2f-4f4e-b5e7-d3732e088ba9" alt="Frame 7" width="115"/>
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/e5b41fe9-3b62-4065-a8e3-986ab90cb921" alt="Frame 8" width="100"/>
+</picture>
+
+
+  <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/1e0df25b-bc2f-4f4e-b5e7-d3732e088ba9">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/9bc9f650-09eb-4eae-b4b4-f00f46ecec41">
+ <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/1e0df25b-bc2f-4f4e-b5e7-d3732e088ba9" alt="Frame 7" width="115"/>
+</picture>
+
+   <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/e5b41fe9-3b62-4065-a8e3-986ab90cb921">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/deb84133-6837-472c-83bb-135176cfb58c">
+<img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/e5b41fe9-3b62-4065-a8e3-986ab90cb921" alt="Frame 8" width="100"/>
+</picture>
+
 </div>
+
 
 
 <div align="center">
