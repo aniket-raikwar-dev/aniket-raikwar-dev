@@ -53,11 +53,11 @@
 
 <div align="center">
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/379b2367-b2b7-40db-87d5-3a445fa19012" alt="Frame 5" width="115"/>
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/59f34fa2-7e89-43b4-adb6-f2480a8e598d" alt="Frame 6" width="115"/>
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/d49bf3e1-a2d1-489b-a741-3fe63a3bce17d" alt="Frame 6" width="115"/>
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/ebe35505-4d75-48da-b978-4f8df3d91eb5" alt="Frame 8" width="100"/>
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/c51d4d0b-1b6c-43a4-9d65-f4c3e2c20674" alt="Frame 7" width="115"/>
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/f303d0cd-7ef5-4274-b667-345b1f28503b" alt="Frame 7" width="115"/>
 </div>
-
 
 
 
