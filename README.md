@@ -2,14 +2,6 @@
 
 ### Hello there 👋
 
-***
-
-___
-
----
-
-<hr style="border: 10px solid;"/>
-
 #### I'm Aniket Raikwar, a *Frontend Software Engineer* at [York IE](https://york.ie/).
 
 
