@@ -18,22 +18,21 @@
 - 📫 You can reach me at [aniket.raikwar.101@gmail.com](aniket.raikwar.101@gmail.com)
 
 - 📄 If you want to see my resume - [Resume](aniket.raikwar.101@gmail.com)
-  
 
 <hr>
 <h3 align="center">Connect with Me</h3>
 <div align="center">
 <a href="https://www.instagram.com/aniket.raikwar_/" target="_blank">
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/a943662e-c08c-4ca7-9c11-9ff58d288302" alt="Frame 4" width="120"/>
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/64760ac3-b755-41f6-8d16-6da7166586ee" alt="Frame 4" width="135"/>
 </a>
 <a href="https://github.com/aniket-raikwar-dev" target="_blank">
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/84c5fcfd-5830-4338-9e07-3a6d774b035e" alt="Frame 4" width="120"/>
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/5640682a-ac42-4b96-b62f-38af04a95feb" alt="Frame 4" width="135"/>
 </a>
 <a href="https://x.com/raikwar_101" target="_blank">
- <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/66793683-d22e-4fa0-8db8-b8964ab32d32" alt="Frame 6" width="120"/>
+ <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/df4342b8-4815-4f79-86fa-b8b37326f0f1" alt="Frame 6" width="135"/>
 </a>
 <a href="https://medium.com/@aniket.raikwar.101" target="_blank">
- <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/8d38127b-f56e-416f-bc29-8f2b52e0cef4" alt="Frame 6" width="120"/>
+ <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/85692446-3876-4688-8914-e0e6e7dc337d" alt="Frame 6" width="135"/>
 </a>
 </div>
 
