@@ -9,7 +9,7 @@
   
 - 🌱 I love creating cool stuff on the internet!
   
-- 👨‍💻 I was graduated from Nagpur University in 2022 with a Bachelor's Degree in Information Technology.
+- 👨‍💻 I was graduated from [Nagpur University](https://www.tgpcet.com/) in **2022** with a Bachelor's Degree in Information Technology.
 
 - ⚡ I like to build things that people will find helpful and enjoyable, that’s all make me a creative developer.
 
