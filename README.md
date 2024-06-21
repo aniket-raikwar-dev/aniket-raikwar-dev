@@ -20,9 +20,8 @@
 - 📄 If you want to see my resume - [Resume](aniket.raikwar.101@gmail.com)
   
 
-
-<h3 align="center">Connect with Me</h3>
 <hr>
+<h3 align="center">Connect with Me</h3>
 <div align="center">
 <a href="https://www.instagram.com/aniket.raikwar_/" target="_blank">
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/a943662e-c08c-4ca7-9c11-9ff58d288302" alt="Frame 4" width="120"/>
@@ -38,8 +37,8 @@
 </a>
 </div>
 
-<h3 align="center">Tech Stack and Tools</h3>
 <hr>
+<h3 align="center">Tech Stack and Tools</h3>
 <div align="center">
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/7b109308-96bf-43d8-8f63-07a53158707a" alt="Frame 1" width="107"/>
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/9e46f89b-e324-47b3-82e6-758d1a5730db" alt="Frame 2" width="93"/>
