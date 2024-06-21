@@ -159,16 +159,36 @@
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/ce4f805d-58ed-41de-ba9c-7f76bd3919cd" alt="Frame 8" width="108"/>
 </picture>
 
- 
 </div>
 
 
 
 <div align="center">
+
+ <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/deaa2cf6-b270-4501-96e0-f85c5776743f">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/9eae5157-0818-4021-be88-7103911a47f1">
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/deaa2cf6-b270-4501-96e0-f85c5776743f" alt="Frame 7" width="105"/>
+</picture>
+
+ <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/94d08973-bf56-4b58-97c7-d236427728d5">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/6a227f1e-5b94-455b-892e-dc0af149dd7a">
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/94d08973-bf56-4b58-97c7-d236427728d5" alt="Frame 6" width="115"/>
+</picture>
+
+ <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/74de20e4-ed73-475d-abb0-c03b7b531802">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/5d448e42-fe42-4ecf-818f-7bf96eb4061b">
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/74de20e4-ed73-475d-abb0-c03b7b531802" alt="Frame 5" width="115"/>
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/e0b5863d-cb5b-48f2-84d9-3b0e38af6335" alt="Frame 8" width="93"/>
+</picture>
+
+ <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/e0b5863d-cb5b-48f2-84d9-3b0e38af6335">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/18ba1537-be1d-4ce2-8db1-4b13ed36f155">
+   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/e0b5863d-cb5b-48f2-84d9-3b0e38af6335" alt="Frame 8" width="93"/>
+</picture>
+
 </div>
 
 
