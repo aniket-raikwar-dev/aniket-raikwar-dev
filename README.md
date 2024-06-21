@@ -30,8 +30,12 @@
 
 <h3 align="center">Connect with Me</h3>
 
+
 <div align="center">
 
+ <a href="https://www.instagram.com/aniket.raikwar_/" target="_blank">
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/95d9f318-eef1-4500-bc64-9540ab99c77e" alt="Frame 4" width="130"/>
+</a>
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/64760ac3-b755-41f6-8d16-6da7166586ee">
