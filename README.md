@@ -38,16 +38,14 @@
 </a>
 </div>
 
-
-
 <h3 align="center">Tech Stack and Tools</h3>
 
 <div align="center">
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/79fba760-8813-46e6-b726-0628595857f4" alt="Frame 1" width="107"/>
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/e45178e9-0d68-4356-b2d2-244b16c639d0" alt="Frame 2" width="93"/>
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/d7ae064c-0b0e-4055-923f-c95420f88573" alt="Frame 3" width="115"/>
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/57401637-f986-4b5d-84b5-e0458c2944c1" alt="Frame 3" width="115"/>
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/64e6be06-0663-4f2d-9fc9-5cdc925e0c3a" alt="Frame 3" width="115"/>
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/edbfcbca-36f7-4557-82f7-46d9fe885c8c" alt="Frame 4" width="108"/>
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/1d12cc7f-bc75-4c55-b7d1-33f9a544c984" alt="Frame 4" width="108"/>
 </div>
 
 
