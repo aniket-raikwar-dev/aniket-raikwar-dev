@@ -23,20 +23,20 @@
 <h3 align="center">Connect with Me</h3>
 <div align="center">
 <a href="https://www.instagram.com/aniket.raikwar_/" target="_blank">
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/64760ac3-b755-41f6-8d16-6da7166586ee" alt="Frame 4" width="135"/>
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/64760ac3-b755-41f6-8d16-6da7166586ee" alt="Frame 4" width="130"/>
 </a>
 <a href="https://github.com/aniket-raikwar-dev" target="_blank">
-  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/5640682a-ac42-4b96-b62f-38af04a95feb" alt="Frame 4" width="135"/>
+  <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/5640682a-ac42-4b96-b62f-38af04a95feb" alt="Frame 4" width="130"/>
 </a>
 <a href="https://x.com/raikwar_101" target="_blank">
- <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/df4342b8-4815-4f79-86fa-b8b37326f0f1" alt="Frame 6" width="135"/>
+ <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/df4342b8-4815-4f79-86fa-b8b37326f0f1" alt="Frame 6" width="130"/>
 </a>
 <a href="https://medium.com/@aniket.raikwar.101" target="_blank">
- <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/85692446-3876-4688-8914-e0e6e7dc337d" alt="Frame 6" width="135"/>
+ <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/85692446-3876-4688-8914-e0e6e7dc337d" alt="Frame 6" width="130"/>
 </a>
 </div>
 
-<hr>
+<hr style="height:0.5px;border-width:0;color:gray;background-color:gray">
 <h3 align="center">Tech Stack and Tools</h3>
 <div align="center">
   <img src="https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/7b109308-96bf-43d8-8f63-07a53158707a" alt="Frame 1" width="107"/>
