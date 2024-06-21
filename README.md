@@ -1,5 +1,9 @@
 ![Frame 3 (2)](https://github.com/aniket-raikwar-dev/aniket-raikwar-dev/assets/65860069/4568cd74-47e0-45bc-a7a8-0bfe695ef541)
 
+# Hi, I'm Stefano! 
+
+I'm a freelance Front-End developer.
+
 ### Hello there 👋,
 
 #### I'm Aniket Raikwar, a *Frontend Software Engineer* at [York IE](https://york.ie/).
